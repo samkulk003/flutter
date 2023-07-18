@@ -1,16 +1,14 @@
-# meals
+# Cuisine Quest
+## It's your passport to global cuisine.
 
-A new Flutter project.
+Discover a world of culinary delights with my Meals App, your personal guide to diverse cuisines. Designed specifically for food enthusiasts, this application allows you to explore a variety of dishes from the comfort of your home.
 
-## Getting Started
+With a multi-screen interface, the Meals App categorizes meals by different cuisines, making it easy for you to navigate and find your next favorite dish. Whether you're craving appetizers or desserts, you'll find a wide selection right at your fingertips.
 
-This project is a starting point for a Flutter application.
+Understanding the unique dietary needs and preferences of each user, the Meals App provides advanced filter options. Whether you're gluten-free, lactose-free, vegan, or vegetarian, you can customize your search to find meals that suit your lifestyle.
 
-A few resources to get you started if this is your first Flutter project:
+One unique feature of my app is the ability to add meals to 'Favorites'. Keep track of the dishes you love and revisit them whenever you want, with just a tap.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For data storage, the Meals App utilizes Firebase at the backend. This ensures your favorite meals, search history, and personal preferences are stored securely and are accessible at your convenience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Embark on a culinary journey with the Meals App.
